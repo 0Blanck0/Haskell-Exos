@@ -4,6 +4,11 @@
 
 This repository contains Haskell exercises made as part of my training course at school ETNA Paris (École des Technologies Numériques Avancées).
 
+## Goals
+
+* Understand functional programming in a simple way and understand its challenges
+* Apply functional principles in Haskell
+
 ## Content
 
 - `MyPool.hs`: Ce fichier contient toutes les fonctions implémentées pour les exercices.
