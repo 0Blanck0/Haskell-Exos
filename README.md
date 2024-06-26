@@ -11,8 +11,8 @@ This repository contains Haskell exercises made as part of my training course at
 
 ## Content
 
-- `MyPool.hs`: Ce fichier contient toutes les fonctions implémentées pour les exercices.
-- `individual/`: Ce dossier contient chaque exercice isolé, avec son énoncé et sa solution implémentée séparément.
+- `MyPool.hs`: This file contains all the functions implemented for the exercises.
+- `individual/`: This folder contains each individual exercise, with its statement and solution implemented separately.
 
 ## Setup
 
